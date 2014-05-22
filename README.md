@@ -24,12 +24,14 @@ Vaya a [http://nodejs.org/download/](http://nodejs.org/download/) y descargue no
     $ node receiver.js
     UDP Server listening on 0.0.0.0:10000
     ```
+
 4. Luego, abra otra línea de comandos (consola), ingrese al directorio descomprimido y ejecute el sender
     ```
     $ cd node-multicast-master
     $ node sender.js
     UDP message sent to 224.0.1.60:10000
     ```
+
 5. Si ve la consola donde ejecutó el reciver (paso 3), tendrá que ver lo siguiente:
     ```
     UDP Server listening on 0.0.0.0:10000
