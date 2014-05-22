@@ -31,7 +31,6 @@ UDP message sent to 224.0.1.60:10000
 UDP Server listening on 0.0.0.0:10000
 148.205.36.107:41039 - My KungFu is Good!
 148.205.36.107:55486 - My KungFu is Good!
-
 ```
 6. Con lo anterior, queda comprobado que sender o receiver envia y recibe mensajes.
 
