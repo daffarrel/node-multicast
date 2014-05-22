@@ -1,16 +1,20 @@
 node-multicast
 ==============
 
-Para correr los ejemplos
+Scripts for creating a multicast senders and receivers
 
-Instalar node.js
----------------
+
+## Correr el código
+
+Siga las siguientes instrucciones para correr el código.
+
+
+### 1. Descargar node.js
 
 Vaya a [http://nodejs.org/download/](http://nodejs.org/download/) y descargue node.js para su sistema operativo.
 
 
-Correr el código
--------------
+### 2. Ejecutar el código
 
 1. Descague este código en [https://github.com/dominoFire/node-multicast/archive/master.zip](https://github.com/dominoFire/node-multicast/archive/master.zip)
 2. Descomprima el archivo descargado (node-multicast-master.zip)
